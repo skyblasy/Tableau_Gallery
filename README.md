@@ -8,4 +8,7 @@ This dashboard shows volume and processing of credit card complaints based on da
 
 ![me](https://github.com/skyblasy/Tableau_Gallery/blob/main/credit_cards_GIF.gif)
 
+### Employee Attrition
+This HR dashboard shows attrition rates based on different dimensions such as gender, age, department, and education along with showing job satisfaction. 
+
 ![me](https://github.com/skyblasy/Tableau_Gallery/blob/main/HR_GIF.gif)
